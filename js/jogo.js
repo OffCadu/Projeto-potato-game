@@ -1,4 +1,4 @@
-//encontrando dimensões do navegador para palco do jogo
+//encontrando e limitando dimensões do navegador para palco do jogo
 
 var altura = 0;
 var largura = 0;
